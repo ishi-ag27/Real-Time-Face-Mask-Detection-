@@ -44,7 +44,6 @@ Our face mask detection model uses a live webcam feed to perform real-time face 
 
 We can further enhance the model by adding features like contactless temperature checks and identifying mask types. This project has potential for use in various fields to help enforce safety guidelines.
 
-## Conclusion 
 
 ### Conclusion
 
@@ -53,3 +52,7 @@ We've developed a deep learning model for face mask recognition using Python, Te
 ## Credits
 
 This project is based on the work of [Karan Malik](https://github.com/Karan-Malik) and their project [FaceMaskDetector](https://github.com/Karan-Malik/FaceMaskDetector). 
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
