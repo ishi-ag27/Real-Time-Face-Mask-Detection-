@@ -50,4 +50,6 @@ We can further enhance the model by adding features like contactless temperature
 
 We've developed a deep learning model for face mask recognition using Python, TensorFlow, Keras, and OpenCV. The model can help detect whether people are wearing masks, which is essential for implementing safety guidelines.
 
+## Credits
 
+This project is based on the work of [Karan Malik](https://github.com/Karan-Malik) and their project [FaceMaskDetector](https://github.com/Karan-Malik/FaceMaskDetector). 
