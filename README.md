@@ -55,4 +55,4 @@ This project is based on the work of [Karan Malik](https://github.com/Karan-Mali
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
